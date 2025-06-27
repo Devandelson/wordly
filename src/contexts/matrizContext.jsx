@@ -2,7 +2,7 @@ import { createContext, useState, useRef, Suspense } from "react";
 import Swal from 'sweetalert2'
 import { fechingData } from "../apiPalabras.js";
 
-const findData = fechingData('/palabras.json');
+const findData = fechingData('palabras.json');
 
 // matriz del letras correctas
 export const MatrizActivoContextJuego = createContext(null);
