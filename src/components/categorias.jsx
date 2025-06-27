@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from 'motion/react';
 import { fechingData } from '../apiPalabras.js';
 
-const findData = fechingData('wordly/palabras.json');
+const findData = fechingData('./palabras.json');
 
 export default function Categorias({ condicionTeclado }) {
     let claseTecladoMargen = condicionTeclado ? 'mb-96' : 'mb-20'; // margen automatico para cuando se active el teclado.
