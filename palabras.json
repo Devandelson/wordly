@@ -1,0 +1,89 @@
+{
+  "animales": {
+    "key": "animales",
+    "palabras": [
+      "lobo", "puma", "gato", "vaca", "rata",
+      "loro", "mula", "avea", "toro", "foca",
+      "mono", "cuco", "tuna", "pato", "rana", "sapo"
+    ],
+    "icon": "fa-solid fa-otter"
+  },
+  "colores": {
+    "key": "colores",
+    "palabras": [
+      "rojo", "azul", "gris", "rosa",
+      "cian", "vino", "lila", "mora",
+      "aqua", "cafe", "miel", "teja",
+      "tiza", "nuez", "dora", "liso", "nejo"
+    ],
+    "icon": "fa-solid fa-brush"
+  },
+  "objetos": {
+    "key": "objetos",
+    "palabras": [
+      "casa", "soga", "taza", "olla", "mesa",
+      "velo", "lupa", "palo", "cubo", "lazo", "lima", "ropa", "lija", "tina",
+      "bota", "viga", "reja", "lata", "hilo"
+    ],
+    "icon": "fa-solid fa-object-group"
+  },
+  "naturaleza": {
+    "key": "naturaleza",
+    "palabras": [
+      "lago", "nube", "roca", "rayo", "luna",
+      "aire", "sola", "agua", "lava", "flor",
+      "hoja", "cima", "nido",
+      "rama", "pino", "viento"
+    ],
+    "icon": "fa-solid fa-tree"
+  },
+  "comida": {
+    "key": "comida",
+    "palabras": [
+      "sopa", "jugo", "miel", "kiwi", "yuca",
+      "nuez", "pavo", "coco", "higo",
+      "flan", "pita", "nata", "tuna", "taco",
+      "papa", "lomo", "uvas", "olla", "arroz"
+    ],
+    "icon": "fa-solid fa-utensils"
+  },
+  "lugares": {
+    "key": "lugares",
+    "palabras": [
+      "zona", "alto", "piso", "muro", "nido",
+      "roma", "urba", "runa",
+      "casa", "aula", "cine", "sala", "club"
+    ],
+    "icon": "fa-solid fa-map-location-dot"
+  },
+  "acciones": {
+    "key": "acciones",
+    "palabras": [
+      "sube", "baja", "lava", "pega", "roba",
+      "tira", "huye", "amar", "duda", "call",
+      "abre", "mira", "sabe", "cree",
+      "llor", "anda", "para", "nada", "vuela"
+    ],
+    "icon": "fa-solid fa-up-down-left-right"
+  },
+  "cuerpo": {
+    "key": "cuerpo",
+    "palabras": [
+      "boca", "cara", "pelo", "mano", "piel",
+      "pies", "uñas", "codo", "ojos", "nuca",
+      "lomo", "ceja",
+      "hues", "dedo", "culo", "axil", "cabe"
+    ],
+    "icon": "fa-solid fa-child"
+  },
+  "otros": {
+    "key": "otros",
+    "palabras": [
+      "meta", "dato", "duro", "fino", "rico",
+      "clan", "dama", "nada", "vida", "rito",
+      "hora", "suma", "paso", "juez",
+      "puro", "pago", "alma", "club", "tema"
+    ],
+    "icon": "fa-solid fa-network-wired"
+  }
+}
